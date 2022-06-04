@@ -43,6 +43,6 @@ This is a link [我的B站主页](https://space.bilibili.com/107938647/dynamic?s
 <https://space.bilibili.com/107938647/dynamic?spm_id_from=444.41.my-info.face.click>
 
 
+![Feuerwerk](/Users/xinyu/Technical Artist/GitHubNotes/TechnicalArtist/Images/WechatIMG3.jpeg)
 
-![this is an image](/Users/xinyu/Desktop/WechatIMG3.jpeg "Feuerwerk")()
-[![this is an image](/Users/xinyu/Desktop/WechatIMG3.jpeg "Feuerwerk")](we can also attact a link)
+[![this is an image](/Users/xinyu/Technical Artist/GitHubNotes/TechnicalArtist/Images/WechatIMG3.jpeg "Feuerwerk")](we can also attact a link)
