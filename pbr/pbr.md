@@ -1,0 +1,3 @@
+- [ ] [QianMo/PBR-White-Paper](https://github.com/QianMo/PBR-White-Paper) 
+- [ ] [知乎：基于物理的渲染（PBR）白皮书](https://zhuanlan.zhihu.com/p/53086060)
+- [ ] [Real Shading in Unreal Engine 4](https://de45xmedrsdbp.cloudfront.net/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)
