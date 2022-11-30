@@ -34,8 +34,19 @@ This is a learning procedure to list and track what I have learned what I am lea
 - [ ] Modeling
 
 ## Houdini
+
+- [ ] 湖边小屋
 - [ ] VEX
 - [ ] z-plus
+大世界野外系统:
+- [ ] [Procedural World Generation of Ubisoft's Far Cry 5 _ Etienne Carrier](https://www.bilibili.com/video/BV1u4411q7Gm?from=search&seid=13084033125153560392)
+- [ ] [【翻译】GDC 2017 程序化生成技术在《幽灵行动-荒野》中的应用](https://zhuanlan.zhihu.com/p/34359559)
+
+-[ ][Post-Apocalypic-Ruins](https://www.sidefx.com/tutorials/post-apocalyptic-ruins-for-ue4/)
+-[ ][Houdini与Unity UE4赛车竞速游戏制作视频教程 Procedural Race Tracks](https://www.bilibili.com/video/BV1zJ411E7My/?spm_id_from=333.788.videocard.14)
+- [ ] [用HOUDINI创建漫威的蜘蛛侠开放世界](https://www.bilibili.com/video/BV1j7411f725?from=search&seid=6050407603866403530)
+- [ ] https://www.zhihu.com/question/408549502/answer/1362139266
+- [ ] https://www.sidefx.com/tutorials/game-jam-starter-kit/
 
 ## Unity
 
